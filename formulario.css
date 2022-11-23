@@ -2,8 +2,11 @@ body{
     font-family: "Times New Roman", Times, serif;
 }
 
-label { 
+h1{
+    font-size: 18px;
+}
 
+label { 
     margin-top: 7px;
     font-size: 12px;
     display: block;
@@ -12,11 +15,11 @@ label {
 }
 
 input { 
-    
     margin-top: 3px;
     width: 20em;
     font-weight: bold;
 }
+
 .botaoEnvio {
     margin-top: 20px;
 }
