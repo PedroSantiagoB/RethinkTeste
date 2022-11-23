@@ -1,0 +1,22 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+}
+
+label { 
+
+    margin-top: 7px;
+    font-size: 12px;
+    display: block;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+input { 
+    
+    margin-top: 3px;
+    width: 20em;
+    font-weight: bold;
+}
+.botaoEnvio {
+    margin-top: 20px;
+}
